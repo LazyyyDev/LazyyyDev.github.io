@@ -17,9 +17,9 @@
     gem "jekyll-paginate"
     gem "github-pages"
    ```
-3. 터미널에서 `Bundle install`을 실행합니다.   
- - 만약 Update와 관련된 문구가 출력되면 `Bundle update`를 실행한 후 다시 `Bundle install`을 실행합니다.
-4. 서버를 띄웁니다. `Bundle exec jekyll serve`
+3. 터미널에서 `bundle install`을 실행합니다.   
+ - 만약 Update와 관련된 문구가 출력되면 `bundle update`를 실행한 후 다시 `bundle install`을 실행합니다.
+4. 서버를 띄웁니다. `bundle exec jekyll serve`
 5. http://127.0.0.1:4000/ 에서 확인합니다.
 6. 변경을 Commit 하고 본인의 repository 에 Push 합니다.   
    그러면 GitHub Pages 가 자동으로 블로그를 재생성 합니다.
