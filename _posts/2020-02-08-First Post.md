@@ -2,7 +2,6 @@
 layout: post
 title: "첫번째 포스트"
 tags: Blog
-comments: false
 ---
 
 # **첫 포스트**
