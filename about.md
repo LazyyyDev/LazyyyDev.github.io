@@ -19,6 +19,14 @@ permalink: /about/
 3. React
 4. React native
 
+---
+
+### ETC
+
+1. Problem/Error Slove
+2. seminar/Book Review
+3. Life
+
 ### If you want to contact me,
 
 [jw.ryux@gmail.com](mailto:jw.ryux@gmail.com)   
