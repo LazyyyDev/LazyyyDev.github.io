@@ -10,7 +10,7 @@ permalink: /about/
 
 1. Kotlin, Java 학습
 2. HTML, CSS, Javascript 학습 - There is no end in these Fields. Basic, Aru you sure?
-
+3. C - 올림피아드 문제 
 ---
 
 ### Advanced Learing Info
