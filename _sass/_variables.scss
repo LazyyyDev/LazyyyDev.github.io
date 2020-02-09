@@ -21,7 +21,7 @@ $georgia: Georgia, serif;
 
 // Fonts
 $base-font: 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
-$code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
+$code-font: 'Menlo', 'monospace', 'Monaco', 'Spoqa Han Sans', Courier New;
 
 // Font sizes
 $base-font-size: 18px;
@@ -39,7 +39,7 @@ $table-border-color: $oc-gray-2;
 $table-background-color: $oc-gray-1;
 
 $blockquote-color: $base-lighten-color;
-$blockquote-border-color: $oc-gray-3;
+$blockquote-border-color: $oc-indigo-4;
 
 $footnote-link-border-color: $oc-gray-1;
 $footnote-link-background-over-color: $oc-gray-1;
@@ -51,7 +51,7 @@ $pagination-color: $oc-gray-6;
 $pagination-over-color: $oc-gray-7;
 
 $tag-index-label-color: $base-color;
-$tag-index-label-background-color: $oc-gray-2;
+$tag-index-label-background-color: $oc-indigo-1;
 $tag-index-count-background-color: $oc-gray-3;
 
 $footer-border-color: $oc-gray-2;
