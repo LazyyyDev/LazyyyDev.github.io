@@ -8,9 +8,17 @@ comments: false
 
   <div>
     <span class="date">
-      {{ page.date | date: "%Y-%m-%d" }}
-    </span>
+      작성일 : {{ page.date | date: "%Y-%m-%d" }}
+    </span></br>
+    
+    {% if page.last_modified_at %}
+    <span class="date">
+      최종 수정일: {{ page.last_modified_at | date: "%Y-%m-%d" }}
+    </span></br>
+    {% endif %}
+    
 
+    
     <ul class="tag">
       {% for tag in page.tags %}
       <li>
