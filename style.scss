@@ -26,7 +26,22 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 850px;
+  padding-left: 2em;
+  width: 100%;
+  border-left: .05em solid $oc-gray-3;
+}
+
+.nav-container {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.foot-container {
+  margin: 0 auto;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
