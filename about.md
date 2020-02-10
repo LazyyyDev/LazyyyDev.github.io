@@ -10,15 +10,16 @@ permalink: /about/
 
 1. Kotlin, Java 학습
 2. HTML, CSS, Javascript 학습 - There is no end in these Fields. Basic, Aru you sure?
-3. C - 올림피아드 문제   
+3. C/C++ - Logic and Algorithm in Olympiad
 
 ---
 
 ### Advanced Learing Info
 1. Library? Framework? Web? Server? - What's the difference?
-2. Spring Framework
-3. React
-4. React native
+2. JSP/Sevlet
+3. Spring Framework
+4. React
+5. React native
 
 ---
 
