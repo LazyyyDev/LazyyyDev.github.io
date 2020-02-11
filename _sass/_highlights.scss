@@ -21,9 +21,11 @@ pre.highlight {
   border-radius: 3px;
   margin: 1em 0;
   overflow-x: auto;
+  color: $oc-gray-4;
+  background-color: $oc-gray-9;
 }
 
-.highlight .c { color: #586E75 } /* Comment */
+.highlight .c { color: #93A1A1 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
 .highlight .k { color: #859900 } /* Keyword */

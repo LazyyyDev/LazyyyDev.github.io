@@ -21,8 +21,9 @@ $georgia: Georgia, serif;
 
 // Fonts
 $base-font: 'Nanum Gothic', 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
-$code-font: 'Dotum', 'Courier New', 'monospace', 'Monaco', 'Spoqa Han Sans', Menlo;
-$pre-font: 'Arial', sans-serif;
+$code-font: 'Consolas', 'Dotum', 'Courier New', 'monospace', 'Monaco', 'Spoqa Han Sans', Menlo;
+$pre-font: 'Consolas', 'Arial', sans-serif;
+
 // Font sizes
 $base-font-size: 16px;
 $small-font-size: 14px;
@@ -38,7 +39,7 @@ $divider-color: $oc-gray-1;
 $table-border-color: $oc-gray-2;
 $table-background-color: $oc-gray-1;
 
-$blockquote-color: $base-lighten-color;
+$blockquote-color: $oc-gray-7;
 $blockquote-border-color: $oc-cyan-4;
 
 $footnote-link-border-color: $oc-gray-1;
